@@ -136,7 +136,7 @@ Previous studies have investigated a wide range of factors potentially explainin
 	<font size="3"> 
 	<i class="fa-solid fa-people-line"></i>
 	A. Barrak, G. FOFE, E. KOUAM, L. MACKOWIAK and Fehmi JAAFAR <br>
-	<i class="fa-solid fa-location-dot"></i>  CSCLOUD 2024. <br>
+	<i class="fa-solid fa-location-dot"></i>  The 11th IEEE International Conference on Cyber Security and Cloud Computing (CSCLOUD 2024). <br>
 	</font>
    </div>
 
