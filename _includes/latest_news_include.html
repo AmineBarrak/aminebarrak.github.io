@@ -1,0 +1,19 @@
+{% capture news_content %}
+{% include_relative news.md %}
+{% endcapture %}
+
+{% assign news_lines = news_content | strip | newline_to_br | split: '<br />' %}
+{% assign latest_news = "" %}
+{% assign news_count = 0 %}
+
+{% for line in news_lines %}
+  {% if line contains "- " %}
+    {% assign latest_news = latest_news | append: line | append: '<br />' %}
+    {% assign news_count = news_count | plus: 1 %}
+    {% if news_count == 5 %}
+      {% break %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{{ latest_news | markdownify }}
