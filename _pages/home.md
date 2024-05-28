@@ -26,7 +26,7 @@ function toggleText(textIdToShow, textIdToHide) {
 
 - **Distributed Machine Learning**
 - **Function-as-a-Service (FaaS) and Cloud Computing****
-- **Software Engineering for ML SE4ML**
+- **Software Engineering for ML (SE4ML)**
 - **MLOps and ML Pipeline**
 - **Secure Machine Learning**
 - **Parallel Algorithms**
