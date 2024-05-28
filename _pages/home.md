@@ -25,8 +25,8 @@ function toggleText(textIdToShow, textIdToHide) {
 ## Research Interests
 
 - **Distributed Machine Learning**
-- **Function-as-a-Service (FaaS)**
-- **Serverless and Cloud Computing**
+- **Function-as-a-Service (FaaS) and Cloud Computing****
+- **Software Engineering for ML SE4ML**
 - **MLOps and ML Pipeline**
 - **Secure Machine Learning**
 - **Parallel Algorithms**
