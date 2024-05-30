@@ -131,7 +131,7 @@ Previous studies have investigated a wide range of factors potentially explainin
 ## Conferences
 ### 2024
 
-- **Securing AWS Lambda: Advanced Strategies and Best Practices (under review)**
+- **Securing AWS Lambda: Advanced Strategies and Best Practices**
    <div>
 	<font size="3"> 
 	<i class="fa-solid fa-people-line"></i>
