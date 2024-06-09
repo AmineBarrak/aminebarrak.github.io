@@ -29,7 +29,7 @@ function toggleText(textIdToShow, textIdToHide) {
 	<i class="fa-solid fa-location-dot"></i>  IEEE Transactions on Parallel and Distributed Systems. <br>
 	</font>
 	    <i class="fa-solid fa-book"></i>
-   <a class="btn btn--info btn--small" target="_blank" href="../assets/pdfs/IEEE_Journal_TPDS_Preprint.pdf">Pre-print</a>
+   <a class="btn btn--info btn--small" target="_blank" href="https://aminebarrak.github.io/assets/pdfs/IEEE_Journal_TPDS_Preprint.pdf">Pre-print</a>
    </div>
 
 ### 2022
