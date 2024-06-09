@@ -532,6 +532,8 @@ Virtual Reality (VR) is a computer technology that holds the promise of revoluti
 	A. Barrak <br>
 	<i class="fa-solid fa-location-dot"></i>  The 38th IEEE International Parallel & Distributed Processing Symposium (IPDPS 2024). <br>
 	</font>
+	    <i class="fa-solid fa-book"></i>
+   <a class="btn btn--info btn--small" target="_blank" href="https://aminebarrak.github.io/assets/pdfs/2024_ipdps_phd_forum_poster.pdf">Pre-print</a>
    </div>
 
 - **Incorporating Serverless Computing into P2P Networks for ML Training: In-Database Tasks and Their Scalability Implications (Student Abstract)** <br>
