@@ -3,6 +3,7 @@ permalink: /news/
 title: "News"
 classes: "wide"
 ---
+- Jun 2024: Accepted paper intitled: "Securing AWS Lambda: Advanced Strategies and Best Practices", CSCLOUD 2024 (Acceptance Rate: 24.66%)
 - May 2024: The poster for the PhD Forum at **IPDPS 2024** is ready to be shared [link](https://aminebarrak.github.io/assets/pdfs/2024_ipdps_phd_forum_poster.pdf)
 - May 2024: Teaching the **Cryptography** course for two groups of students totaling 54 students. [Course details](https://programmes.uqac.ca/8INF874).
 - May 2024: Organizing the **Journée Cyberdéfense Desjardins** at the University of Quebec with my research supervisor Fehmi Jaafar.
