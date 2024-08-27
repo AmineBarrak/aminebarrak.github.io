@@ -20,7 +20,7 @@ function toggleText(textIdToShow, textIdToHide) {
 }
 </script>
 <br>
-**I am Amine Barrak**, a Ph.D. student at the [University of Quebec](https://www.uqac.ca), specifically in the [Département d'informatique et de mathématique](https://www.uqac.ca/dim/). Under the guidance of [Fehmi Jaafar](https://fehmijaafar.net/) and [Fabio Petrillo](https://fabiopetrillo.com/), my research focuses on adapting **distributed training** in machine learning to **function-as-a-service (FaaS)** infrastructure.
+**I am Amine Barrak**, an Assistant Professor at Oakland University. I received my Ph.D. from the [University of Quebec](https://www.uqac.ca), specifically in the [Département d'informatique et de mathématique](https://www.uqac.ca/dim/). Under the guidance of [Fehmi Jaafar](https://fehmijaafar.net/) and [Fabio Petrillo](https://fabiopetrillo.com/), my research focuses on adapting **distributed training** in machine learning to **function-as-a-service (FaaS)** infrastructure.
 
 ## Research Interests
 
