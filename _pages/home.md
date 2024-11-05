@@ -21,7 +21,7 @@ function toggleText(textIdToShow, textIdToHide) {
 </script>
 <br>
 
-**I am Amine Barrak**, an Assistant Professor at [Oakland University](https://www.oakland.edu/). I hold a Ph.D. from the [University of Quebec](https://www.uqac.ca), specifically in the [Département d'informatique et de mathématique](https://www.uqac.ca/dim/). My research focuses on adapting **distributed training** in machine learning to **function-as-a-service (FaaS)** infrastructure.
+**I am Amine Barrak**, an Assistant Professor at [Oakland University](https://www.oakland.edu/). I hold a Ph.D. in Computer Science from the from the [University of Quebec](https://www.uqac.ca), specifically from the [Department of Computer Science and Mathematics](https://www.uqac.ca/dim/). My research focuses on adapting **distributed training** in machine learning to **function-as-a-service (FaaS)** infrastructure.
 
 ## Research Interests
 
@@ -31,8 +31,6 @@ function toggleText(textIdToShow, textIdToHide) {
 - **MLOps and ML Pipeline**
 - **Secure Machine Learning**
 - **Parallel Algorithms**
-
-Currently, I am working on adapting **serverless architecture** for **continuous integration MLOps**, best practices of **FaaS usage**, and overall **optimized architectures**.
 
 
 
