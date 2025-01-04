@@ -3,7 +3,8 @@ permalink: /news/
 title: "News"
 classes: "wide"
 ---
-- Aout 2024: I got the position of assiatnt professor at [Oakland University](https://www.oakland.edu/).
+- December 2024: Accepted Demo Paper and Poster at [ICSOC 2024](https://aminebarrak.github.io/assets/pdfs/ICSOC2024-poster.pdf).
+- August 2024: I got the position of assiatnt professor at [Oakland University](https://www.oakland.edu/).
 - Jun 2024: Accepted paper intitled: "Securing AWS Lambda: Advanced Strategies and Best Practices", CSCLOUD 2024 (Acceptance Rate: 24.66%)
 - May 2024: The poster for the PhD Forum at **IPDPS 2024** is ready to be shared [link](https://aminebarrak.github.io/assets/pdfs/2024_ipdps_phd_forum_poster.pdf)
 - May 2024: Teaching the **Cryptography** course for two groups of students totaling 54 students. [Course details](https://programmes.uqac.ca/8INF874).
