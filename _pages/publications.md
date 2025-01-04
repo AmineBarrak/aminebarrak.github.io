@@ -25,7 +25,7 @@ function toggleText(textIdToShow, textIdToHide) {
    <div>
 	<font size="3"> 
 	<i class="fa-solid fa-people-line"></i>
-	Amine Barrak, F Petrillo, F Jaafar. <br>
+	Amine Barrak, Fabio Petrillo, Fehmi Jaafar. <br>
 	<i class="fa-solid fa-location-dot"></i>  Journal of Cloud Computing, Advances, Systems and Applications. <br>
 	</font>
 	    <i class="fa-solid fa-book"></i>
