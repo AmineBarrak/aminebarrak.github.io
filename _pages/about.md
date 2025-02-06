@@ -10,7 +10,7 @@ I am Amine Barrak, an Assistant Professor at Oakland University specializing in 
 
 ## Academic Background
 
-<i class="fa fa-graduation-cap"></i> **PhD in Computer Science (2021 - Present)**  
+<i class="fa fa-graduation-cap"></i> **PhD in Computer Science (2021 - 2024)**  
 **University of Québec, Québec, Canada**  
 *Thesis:* "Optimized Training and Enhanced Resilience in Distributed ML: A Serverless Peer-to-Peer Architectural Approach"  
 *Research Area:* Distributed Machine Learning on Serverless Computing  
