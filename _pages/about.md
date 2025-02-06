@@ -4,7 +4,7 @@ title: "About"
 ---
 
 
-I am Amine Barrak, a Ph.D. candidate at the University of Québec, specializing in Distributed Machine Learning on Serverless Computing. My extensive teaching and research experience spans cryptography, cloud technologies, and the intersection of AI with security in diverse applications.
+I am Amine Barrak, an Assistant Professor at Oakland University specializing in Distributed Machine Learning on Serverless Computing. My research focuses on scalable and secure distributed systems, integrating cryptography, cloud technologies, and AI-driven security solutions. With extensive teaching and research experience, I explore the intersection of AI, security, and cloud computing across various applications.
 
 ---
 
